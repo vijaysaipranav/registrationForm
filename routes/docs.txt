@@ -1,0 +1,10 @@
+Registration logic
+1)we have to validate the data
+
+2)check if the user is already in the data base 
+
+3)encryption of password;
+
+4)create a new user and save data in data base
+
+
